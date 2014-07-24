@@ -20,6 +20,7 @@ class GirlsController extends AppController {
                 'action' => 'login',
             ),
         )
+
     );
 
     public function beforeFilter() {
